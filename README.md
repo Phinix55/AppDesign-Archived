@@ -13,7 +13,7 @@ Welcome to my **Mobile App UI Design Showcase**! This collection features six un
   - Real-time charts with performance insights.
   - Minimalist dark theme for a professional look.
 
-![Crypto Trading App](https://via.placeholder.com/800x400.png?text=Crypto+Trading+App)
+![Crypto Trading App](https://drive.google.com/uc?export=view&id=10zcU5RHMjbUmbAgkqPctr0WOgNLlWpUd)
 
 ---
 
@@ -24,7 +24,7 @@ Welcome to my **Mobile App UI Design Showcase**! This collection features six un
   - Quick add-to-cart functionality for a smooth ordering experience.
   - Eye-catching, colorful design to complement the bar theme.
 
-![Bar & Drink Order App](https://via.placeholder.com/800x400.png?text=Bar+%26+Drink+Order+App)
+![Bar & Drink Order App](https://drive.google.com/uc?export=view&id=1fXfCwtB7nduFalIt9cDioLY24RyuMvSD)
 
 ---
 
@@ -35,7 +35,7 @@ Welcome to my **Mobile App UI Design Showcase**! This collection features six un
   - Featured car cards with pricing and key details.
   - Convenient filter options for vehicle type, price, and availability.
 
-![Car Rental App](https://via.placeholder.com/800x400.png?text=Car+Rental+App)
+![Car Rental App](https://drive.google.com/uc?export=view&id=1AJ055RtZ5H9CPYaxvLy-Wt-Sj1td8dcy)
 
 ---
 
@@ -46,7 +46,7 @@ Welcome to my **Mobile App UI Design Showcase**! This collection features six un
   - Flight details displayed with pricing and timings.
   - Modern, clean design with emphasis on usability.
 
-![Flight Booking App](https://via.placeholder.com/800x400.png?text=Flight+Booking+App)
+![Flight Booking App](https://drive.google.com/uc?export=view&id=1po8w8bR6txN5k9n36Cgi2-s1xwBHePgw)
 
 ---
 
@@ -57,7 +57,7 @@ Welcome to my **Mobile App UI Design Showcase**! This collection features six un
   - Smooth scrolling for browsing categories and collections.
   - Bold typography and colors to align with the fashion industry.
 
-![Online Fashion Store App](https://via.placeholder.com/800x400.png?text=Online+Fashion+Store+App)
+![Online Fashion Store App](https://drive.google.com/uc?export=view&id=1SBLRpsvoPuA6Iy1FViJNSIWdrkqdvxLF)
 
 ---
 
@@ -68,7 +68,7 @@ Welcome to my **Mobile App UI Design Showcase**! This collection features six un
   - Dynamic charts for performance analysis.
   - Clean and motivational design with a fitness-focused theme.
 
-![Running Tracking App](https://via.placeholder.com/800x400.png?text=Running+Tracking+App)
+![Running Tracking App](https://drive.google.com/uc?export=view&id=1Iu9clohqoKOUbxThFc2RqeeR0vRITJKq)
 
 ---
 
