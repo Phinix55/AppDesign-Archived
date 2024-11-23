@@ -96,9 +96,8 @@ This repository is a showcase of my UI/UX design skills, with interfaces created
 ## 📢 **Get in Touch**
 If you're interested in collaborating, feel free to connect with me! Let’s create something amazing together.  
 
-👉 **[My Portfolio Website](#)**  
-👉 **[LinkedIn](#)**  
-👉 **[Behance](#)**  
+👉 **[My Portfolio Website](https://pratikpandey.framer.website/)**  
+👉 **[LinkedIn](https://www.linkedin.com/in/pratik-pandey23/)**  
 
 ---
 
